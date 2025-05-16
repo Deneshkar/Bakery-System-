@@ -10,4 +10,5 @@ public class MembershipSystemApplication {
 		SpringApplication.run(MembershipSystemApplication.class, args);
 	}
 
+	int x =10;
 }
